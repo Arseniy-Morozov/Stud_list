@@ -2,7 +2,8 @@
 Действия сервера:
  - Сформировать обобщенный список студентов. В качестве исходных данных использовать 2 файла 
  	student_file_1.txt и student_file_2.txt в следующем формате:
-		 student_file_1.txt
+		 
+		student_file_1.txt
 		----
 		1 Ivan Ivanovich 01.01.1988
 		2 Petr Petrov 04.07.1988
