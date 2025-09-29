@@ -35,14 +35,10 @@
 
 │
 ├── stud/
-│   ├── src/
-│   │   ├── main.cpp
-│   │   ├── ConfigurationManager.cpp
-│   │   ├── ConfigurationManager.hpp
-│   │   ├── ApplicationObject.cpp
-│   │   ├── ApplicationObject.hpp
+│   ├── data/
+│   │   ├── student_file_1.txt
+│   │   ├── student_file_2.txt
 │   ├── CMakeLists.txt
-│
 │   ├── src/
 │   │   ├── client.cpp
 │   │   ├── server.cpp
